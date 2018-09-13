@@ -4,7 +4,7 @@
 1. Работа с таблицами средствами *pandas* 1 (*видео 1* + *1-pandas1.ipynb*)
 2. Работа с таблицами средствами *pandas* 2 (*видео 2* + *2-pandas2.ipynb*)
 3. Работа с таблицами средствами *pandas* 3 (*видео 3* + *3-pandas3.ipynb*)
-4. Семинар по *pandas* (*seminar3.ipynb* и видео)
+4. Семинар по *pandas* (*seminar3.ipynb* и *видео*)
 5. Массивы *numpy* (*видео 4* + *4-numpy.ipynb*)
 6. Построение графиков средствами *matplotlib* (*видео 5* + *5-matplotlib.ipynb*)
 7. Семинар по *numpy* и *matplotlib* (*seminar4.ipynb* - to be added)
