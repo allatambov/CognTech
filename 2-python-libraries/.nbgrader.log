@@ -1,0 +1,97 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/CognTech/2-python-libraries
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=733142cc883231826f6c471b2f9a334742ad1402c57c0946
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=733142cc883231826f6c471b2f9a334742ad1402c57c0946&token=733142cc883231826f6c471b2f9a334742ad1402c57c0946
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Uploading file to /lect_pandas.ipynb
+[NotebookApp | WARNING] Notebook lect_pandas.ipynb is not trusted
+[NotebookApp | WARNING] Notebook lect_pandas.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b67251df-fae7-4216-a424-8719a95a246c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b67251df-fae7-4216-a424-8719a95a246c
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: b8a9d0b1-0b75-450c-bdf9-a6c3be55939a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b8a9d0b1-0b75-450c-bdf9-a6c3be55939a
+[NotebookApp | INFO] Saving file at /1-pandas1.ipynb
+[NotebookApp | WARNING] Notebook 1-pandas1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /1-pandas1.ipynb
+[NotebookApp | WARNING] Notebook 1-pandas1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /lect_pandas.ipynb
+[NotebookApp | WARNING] Notebook lect_pandas.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /1-pandas1.ipynb
+[NotebookApp | WARNING] Notebook 1-pandas1.ipynb is not trusted
+[NotebookApp | INFO] Copying lect_pandas.ipynb to 
+[NotebookApp | WARNING] Notebook lect_pandas.ipynb is not trusted
+[NotebookApp | WARNING] Notebook lect_pandas-Copy1.ipynb is not trusted
+[NotebookApp | WARNING] Notebook lect_pandas-Copy1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5b3249c2-96ea-4831-889f-72ba18038956
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5b3249c2-96ea-4831-889f-72ba18038956
+[NotebookApp | INFO] Saving file at /1-pandas1.ipynb
+[NotebookApp | WARNING] Notebook 1-pandas1.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for b8a9d0b1-0b75-450c-bdf9-a6c3be55939a:e4c501a0372b43dc965c08f7da866f1b
+[NotebookApp | INFO] Kernel shutdown: b8a9d0b1-0b75-450c-bdf9-a6c3be55939a
+[NotebookApp | WARNING] delete /1-pandas1.ipynb
+[NotebookApp | WARNING] Notebook lect_pandas-Copy1.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5b3249c2-96ea-4831-889f-72ba18038956
+[NotebookApp | INFO] Saving file at /lect_pandas-Copy1.ipynb
+[NotebookApp | WARNING] Notebook lect_pandas-Copy1.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 5b3249c2-96ea-4831-889f-72ba18038956:9ddd72a3cbf74d6b862c501d346543f3
+[NotebookApp | INFO] Copying lect_pandas.ipynb to 
+[NotebookApp | WARNING] Notebook lect_pandas.ipynb is not trusted
+[NotebookApp | WARNING] Notebook lect_pandas-Copy1.ipynb is not trusted
+[NotebookApp | WARNING] Notebook lect_pandas-Copy1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5a660af5-cfd5-481e-a70b-3a8b526951a0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a660af5-cfd5-481e-a70b-3a8b526951a0
+[NotebookApp | INFO] Saving file at /lect_pandas-Copy1.ipynb
+[NotebookApp | WARNING] Notebook lect_pandas-Copy1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /lect_pandas-Copy1.ipynb
+[NotebookApp | WARNING] Notebook lect_pandas-Copy1.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for b67251df-fae7-4216-a424-8719a95a246c:ef561d25e8084f158ee7091bc93131a3
+[NotebookApp | WARNING] Notebook 1-pandas1.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5b3249c2-96ea-4831-889f-72ba18038956
+[NotebookApp | INFO] Saving file at /lect_pandas-Copy1.ipynb
+[NotebookApp | WARNING] Notebook lect_pandas-Copy1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /1-pandas1.ipynb
+[NotebookApp | WARNING] Notebook 1-pandas1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /1-pandas1.ipynb
+[NotebookApp | WARNING] Notebook 1-pandas1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /1-pandas1.ipynb
+[NotebookApp | WARNING] Notebook 1-pandas1.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /1-pandas1.ipynb
+[NotebookApp | INFO] Starting buffering for 5b3249c2-96ea-4831-889f-72ba18038956:b9e41c2828604ec885d5f6158bf46e5a
+[NotebookApp | INFO] Saving file at /2-pandas2.ipynb
+[NotebookApp | INFO] Starting buffering for 5a660af5-cfd5-481e-a70b-3a8b526951a0:de96f17106e144a289c882a012a63edf
+[NotebookApp | INFO] Kernel shutdown: b67251df-fae7-4216-a424-8719a95a246c
+[NotebookApp | WARNING] delete /lect_pandas.ipynb
+[NotebookApp | INFO] Uploading file to /lect-pandas-contd.ipynb
+[NotebookApp | WARNING] Notebook lect-pandas-contd.ipynb is not trusted
+[NotebookApp | WARNING] Notebook lect-pandas-contd.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6804f5a5-77bd-4d0e-bcf1-4b235ba13e74
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6804f5a5-77bd-4d0e-bcf1-4b235ba13e74
+[NotebookApp | INFO] Saving file at /3-pandas3.ipynb
+[NotebookApp | WARNING] Notebook 3-pandas3.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 6804f5a5-77bd-4d0e-bcf1-4b235ba13e74:397b5fe58af94ad587a54bdfb3794d9b
+[NotebookApp | INFO] Uploading file to /numpy-tutorial.ipynb
+[NotebookApp | WARNING] Notebook numpy-tutorial.ipynb is not trusted
+[NotebookApp | WARNING] Notebook numpy-tutorial.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1653386b-a7f8-480b-b37b-ba5c002cc5fd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1653386b-a7f8-480b-b37b-ba5c002cc5fd
+[NotebookApp | INFO] Saving file at /numpy-tutorial.ipynb
+[NotebookApp | WARNING] Notebook numpy-tutorial.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /numpy-tutorial.ipynb
+[NotebookApp | WARNING] Notebook numpy-tutorial.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 1653386b-a7f8-480b-b37b-ba5c002cc5fd:bb6765d99c104d058d672f179cd7d33e
+[NotebookApp | INFO] Uploading file to /graphs-matplotlib.ipynb
+[NotebookApp | WARNING] Notebook graphs-matplotlib.ipynb is not trusted
+[NotebookApp | WARNING] Notebook graphs-matplotlib.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e7d708a3-48d8-4528-9bd3-df69b33b35b8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e7d708a3-48d8-4528-9bd3-df69b33b35b8
+[NotebookApp | INFO] Saving file at /graphs-matplotlib.ipynb
+[NotebookApp | INFO] Starting buffering for e7d708a3-48d8-4528-9bd3-df69b33b35b8:3b839f6839b142899af1d39e8790a937
