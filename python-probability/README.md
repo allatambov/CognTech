@@ -8,6 +8,6 @@
 
 **Видео-лекции:**
 
-* discrete-rv: ссылка
-* discrete-rv-examples: ссылка
-* continuous-rv: ссылка
+* discrete-rv: [ссылка]()
+* discrete-rv-examples: [ссылка]()
+* continuous-rv: [ссылка]()
