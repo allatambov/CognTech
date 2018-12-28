@@ -1,6 +1,6 @@
 # Теория вероятностей: случайные величины
 
-* discrete-rv: лекция по дискретным случайным величинам (краткий обзор теории + практика в Python)
+* [discrete-rv](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/python-probability/discrete-rv.ipynb): лекция по дискретным случайным величинам (краткий обзор теории + практика в Python)
 * discrete-rv-examples: лекция по различным примерам дискретных распределений в Python
 * continuous-rv: лекция по непрерывным распределениям в Python
 * prob-hw1: домашнее задание 1
