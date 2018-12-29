@@ -6,7 +6,7 @@
 * [prob-hw1](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/python-probability/prob-hw1.ipynb): домашнее задание 1
 * prob-hw2: домашнее задание 2
 
-**Видео-лекции
+**Видео-лекции**
 
 [Ссылка](https://www.dropbox.com/sh/fl47igkip98tmqf/AACMZw0UZoLSnMl-7vYDksOha?dl=0) на папку
 
