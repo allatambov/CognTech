@@ -19,8 +19,7 @@
 * [regression-1](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-1.ipynb): парная регрессия и проверка гипотез о коэффициентах регрессии
 * [regression-2](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-2.ipynb): множественная регрессия и проверка качества модели
 * regression-3: линейная регрессия с качественными предикторами, дамми-переменные, эффекты взаимодействия
-
-hw3: домашнее задание 3
+* stats-hw3: домашнее задание 3
 
 ## Видео
 
