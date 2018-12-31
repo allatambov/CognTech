@@ -20,7 +20,7 @@
 * [regression-2](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-2.ipynb): множественная регрессия и проверка качества модели
 * regression-3: линейная регрессия с качественными предикторами, дамми-переменные, эффекты взаимодействия
 
-Домашнее задание 3: модель множественной регрессии
+hw3: домашнее задание 3: модель множественной регрессии
 
 ## Видео
 
