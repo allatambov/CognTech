@@ -12,7 +12,6 @@
 
 ## practice_python
 
-* 0-dist-add: ещё немного про распределения
 * [1-scipy-stats](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/1-scipy-stats.ipynb): проверка статистических гипотез (база)
 * [2-conf-intervals](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/2-conf-intervals.ipynb): доверительные интервалы
 * 3-samples: генерация выборок и метод максимального правдоподобия
