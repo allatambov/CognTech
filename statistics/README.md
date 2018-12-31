@@ -14,7 +14,7 @@
 
 * 0-dist-add: ещё немного про распределения
 * [1-scipy-stats](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/1-scipy-stats.ipynb): проверка статистических гипотез (база)
-* 2-conf-intervals: доверительные интервалы
+* [2-conf-intervals](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/2-conf-intervals.ipynb): доверительные интервалы
 * 3-samples: генерация выборок и метод максимального правдоподобия
 * [regression-1](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-1.ipynb): парная регрессия и проверка гипотез о коэффициентах регрессии
 * [regression-2](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-2.ipynb): множественная регрессия и проверка качества модели
