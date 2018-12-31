@@ -20,14 +20,14 @@
 * [regression-2](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-2.ipynb): множественная регрессия и проверка качества модели
 * regression-3: линейная регрессия с качественными предикторами, дамми-переменные, эффекты взаимодействия
 
-hw3: домашнее задание 3: модель множественной регрессии
+hw3: домашнее задание 3
 
 ## Видео
 
 [Ссылка](https://www.dropbox.com/sh/fl47igkip98tmqf/AACMZw0UZoLSnMl-7vYDksOha?dl=0) на видео-лекции, папка *statistics*
 
 
-## Рекомендумая литература
+## Рекомендумая литература3
 
 Ю. Тюрин, А. Макаров. Анализ данных на компьютере. 2008. Главы 3, 6, 8-10.
 
