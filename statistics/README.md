@@ -14,7 +14,7 @@
 
 * [1-scipy-stats](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/1-scipy-stats.ipynb): проверка статистических гипотез (база)
 * [2-conf-intervals](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/2-conf-intervals.ipynb): доверительные интервалы
-* 3-samples: генерация выборок и метод максимального правдоподобия
+* [3-samples](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/3-samples.ipynb): генерация выборок и метод максимального правдоподобия
 * 4-associations: связь между показателями в количественной и качественной шкале
 * [regression-1](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-1.ipynb): парная регрессия и проверка гипотез о коэффициентах регрессии
 * [regression-2](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-2.ipynb): множественная регрессия и проверка качества модели
