@@ -4,7 +4,7 @@
 * [2-discrete-rv-examples](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/python-probability/2-discrete-rv-examples.ipynb): лекция по различным примерам дискретных распределений в Python
 * [3-continuous-rv](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/python-probability/3-continuous-rv.ipynb): лекция по непрерывным распределениям в Python
 * [prob-hw1](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/python-probability/prob-hw1.ipynb): домашнее задание 1
-* prob-hw2: домашнее задание 2
+* [prob-hw2](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/python-probability/prob-hw2.ipynb): домашнее задание 2
 
 **Видео-лекции**
 
