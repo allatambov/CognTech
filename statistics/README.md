@@ -18,7 +18,7 @@
 * [4-associations](https://github.com/allatambov/CognTech/blob/master/statistics/practice_python/4-associations.ipynb): связь между показателями в количественной и качественной шкале
 * [regression-1](http://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-1.ipynb): парная регрессия и проверка гипотез о коэффициентах регрессии
 * [regression-2](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-2.ipynb): множественная регрессия и проверка качества модели
-* regression-3: линейная регрессия с качественными предикторами, дамми-переменные, эффекты взаимодействия
+* [regression-3](https://nbviewer.jupyter.org/github/allatambov/CognTech/blob/master/statistics/practice_python/regression-3.ipynb): линейная регрессия с качественными предикторами, дамми-переменные, эффекты взаимодействия
 * stats-hw3: домашнее задание 3
 
 ## Видео
